@@ -1,0 +1,17 @@
+
+.body {
+  background-color: #191919;
+  background-position: 0px 0px;
+  background-size: 17px;
+  background-attachment: fixed;
+  font-family: 'Nunito Sans', sans-serif;
+  color: #ffffff;
+  font-size: 13px;
+  letter-spacing: 2px;
+  cursor: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
